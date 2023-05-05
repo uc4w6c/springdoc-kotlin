@@ -1,4 +1,4 @@
-package com.example.springdockotlinboot3.isnamevisible
+package com.example.springdockotlinboot2.isnamevisible
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
